@@ -19,7 +19,6 @@ public class App {
             System.out.println("");
             count += 7;
         }
-
     }
 
     public static void calendarRow(int count, int daysCount){
